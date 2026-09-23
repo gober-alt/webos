@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "OCR A Std";
+  src: url("./OCRAStd.woff") format("woff");
+}
+
+body {
+  background-color: #d44c5a;
+  font-family: "OCR A Std", "Andale Mono", monospace;
+}
